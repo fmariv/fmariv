@@ -1,6 +1,9 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey, I'm Fran! 
 
-My name is Fran Martin and I'm a environmental scientist who loves maps and typing code, and I'm lucky enough to have converted both passions into my job. I'm a geospatial developer at the [Institut Cartogràfic i Geològic de Catalunya](https://www.icgc.cat/en/), the main cartographic and spatial data based public agency in Catalonia, Spain.
+My name is Fran Martin and I'm a geospatial developer at the [Institut Cartogràfic i Geològic de Catalunya](https://www.icgc.cat/en/), the main cartographic and spatial data based public agency in Catalonia, Spain.
+
+## :man-raising-hand: About me
+I'm a environmental scientist who loves maps and typing code, and I'm lucky enough to have converted both passions into my job. In my free time I like to hike ⛰️, read books 📖 and play videogames 🎮.
 
 ## :wrench: Technologies & tools
 I am passionate about continuously learning in the field of Geoinformation. I am especially interested in DevOps technologies, although my main interest at this time is the development and application of Artificial Intelligence techniques focused on geospatial data, especially deep learning applied to GIS.
