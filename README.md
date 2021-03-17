@@ -6,14 +6,8 @@ My name is Fran Martín and I'm a geospatial developer at the Institut Cartogrà
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fmariv&show_icons=true&theme=dracula)
 
 <a href="https://github.com/fmariv/DelimitAPI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fmariv&repo=DelimitAPI" />
-</a>
-<a href="https://github.com/fmariv/ambulate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fmariv&repo=ambulate" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fmariv&repo=DelimitAPI&theme=dracula" />
 </a>
 <a href="https://github.com/fmariv/ambulate-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fmariv&repo=ambulate-api" />
-</a>
-<a href="https://github.com/fmariv/R-in-GIS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fmariv&repo=R-in-GIS" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fmariv&repo=ambulate-api&theme=dracula" />
 </a>
