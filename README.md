@@ -3,7 +3,7 @@ My name is Fran Martín and I'm a geospatial developer at the Institut Cartogrà
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmariv&theme=dracula&layout=compact)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fmariv&show_icons=true&theme=dracula)
+(https://github-readme-stats.vercel.app/api?username=fmariv&show_icons=true&theme=dracula)
 
 
 <!--
