@@ -6,4 +6,4 @@ I'm a environmental scientist who loves maps and typing code, and I'm lucky enou
 I am passionate about continuously learning in the field of Geoinformation. I am especially interested in DevOps technologies, although my main interest at this time is the development and application of Artificial Intelligence techniques focused on geospatial data, especially deep learning applied to GIS.
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmariv&theme=dracula&layout=compact&hide=CSS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmariv&theme=dracula&layout=compact&hide=CSS,Objective-C)
