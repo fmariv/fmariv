@@ -6,7 +6,7 @@ My name is Fran Martin and I'm a environmental scientist who loves maps and typi
 I am passionate about continuously learning in the field of Geoinformation. I am especially interested in DevOps technologies, although my main interest at this time is the development and application of Artificial Intelligence techniques focused on geospatial data, especially deep learning applied to GIS.
 
 ---
-Follow me on my social media and let's stay in touch! You can find me on [![Twitter][1.2]][1], or [![LinkedIn][3.2]][3] or even on my [personal website](http://franmartin.xyz/).
+Follow me on my social media and let's stay in touch! You can find me on [![Twitter][1.2]][1], [![LinkedIn][2.2]][2] or even on my [personal website](http://franmartin.xyz/).
 
 <!-- Icons -->
 
