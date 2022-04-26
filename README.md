@@ -13,6 +13,12 @@ I'm a environmental scientist who loves maps and typing code, and I'm lucky enou
 ## :wrench: Technologies & tools
 I am passionate about continuously learning in the field of Geoinformation. I am especially interested in DevOps technologies, although my main interest at this time is the development and application of Artificial Intelligence techniques focused on geospatial data, especially deep learning applied to GIS.
 
+## 📚 Talks
+
+Here you can find a list of my talks!
+
+* [Development of a smartphone technology for the study of the use and perception of public space](http://diobma.udg.edu/handle/10256.1/6218) at the [Jornadas SIG Libre 2021](https://www.jornadassiglibre.org/)
+
 ---
 Follow me on my social media and let's stay in touch! 
 
