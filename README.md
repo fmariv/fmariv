@@ -18,7 +18,7 @@ I am passionate about continuously learning in the field of Geoinformation. I am
 Here you can find a list of my talks!
 
 * [Development of a smartphone technology for the study of the use and perception of public space](http://diobma.udg.edu/handle/10256.1/6218) at the [Jornadas SIG Libre 2021](https://www.jornadassiglibre.org/)
-* [Development of tools for workflow automation: QGIS plug-in and web microapplication](https://diobma.udg.edu/handle/10256.1/6790) at the [Jornadas SIG Libre 2021](https://www.jornadassiglibre.org/)
+* [Development of tools for workflow automation: QGIS plug-in and web microapplication](https://diobma.udg.edu/handle/10256.1/6790) at the [Jornadas SIG Libre 2022](https://www.jornadassiglibre.org/)
 
 ---
 Follow me on my social media and let's stay in touch! 
