@@ -11,7 +11,13 @@ My name is Fran Martin and I'm a geospatial developer at the [Institut Cartogrà
 I'm a environmental scientist who loves maps and typing code, and I'm lucky enough to have converted both passions into my job. In my free time I like to hike, read books, play videogames and be a foodie, not necessarily in that order.
 
 ## :wrench: Technologies & tools
-I am passionate about continuously learning in the field of Geoinformation. I am especially interested in DevOps technologies, although my main interest at this time is the development and implementation of vector tiles standards.
+I'm passionate about continuously learning in the field of Geoinformation. I am especially interested in DevOps technologies and CI/CD, although my main interest at this time is the development and implementation of vector tiles standards.
+
+## 💻 How I code?
+When I have to dive into the code, I like to follow some development practices to have my code working and validated.
+* I develop my code locally in virtualized environments, using [Docker](https://www.docker.com/) containers.
+* I've recently started to follow the **Test Driven Development** (TDD) philosophy, first thinking and implementing the tests.
+* **CI/CD (Continuous Integration / Continuous Development)**, I love to automate things.
 
 ## 📚 Talks
 
@@ -22,11 +28,6 @@ Here you can find a list of my talks!
 
 ---
 Follow me on my social media and let's stay in touch! 
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
