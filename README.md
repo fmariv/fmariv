@@ -5,13 +5,13 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@____franmartin-9cf?style=flat&logo=twitter)](https://twitter.com/__franmartin)
 [![LinkedIn](https://img.shields.io/badge/Linked-In-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/franciscomartinrivas/)
 
-My name is Fran Martin and I'm a geospatial developer at the [Institut Cartogràfic i Geològic de Catalunya](https://www.icgc.cat/en/), the main cartographic and spatial data based public agency in Catalonia, Spain.
+My name is Fran Martín and I'm a Earth Observation Data Scientist at [Earthpulse](https://earthpulse.ai/), trying to unlock the value of Earth Observation data and make it easy.
 
 ## 🙋‍♂️ About me
 I'm a environmental scientist who loves maps and typing code, and I'm lucky enough to have converted both passions into my job. In my free time I like to hike, read books, play videogames and be a foodie, not necessarily in that order.
 
 ## :wrench: Technologies & tools
-I'm passionate about continuously learning in the field of Geoinformation. I am especially interested in DevOps technologies and CI/CD, although my main interest at this time is the development and implementation of vector tiles standards.
+I'm passionate about continuously learning in the field of Geoinformation. I am especially interested in Data Science, DevOps technologies and CI/CD, although my main interest at this time is implementation of AI techniques in the geospatial field.
 
 ## 💻 How I code?
 When I have to dive into the code, I like to follow some development practices to have my code working and validated.
